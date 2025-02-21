@@ -183,9 +183,6 @@ int main() {
 
 //Problem8 //I made a mistake on the quiz, but I realized later((
 /*
-#include <iostream>
-using namespace std;
-
 int main() {
     int balance = 500, amount;
 
